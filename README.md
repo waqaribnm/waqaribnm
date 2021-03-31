@@ -1,7 +1,7 @@
 👋  Hi, I’m Waqar Ahmad Khan @waqaribnm  
 👀  I’m interested in Artifical Inteligence, Security and recently explored Social Networks Analysis and find it very interesting  
 🌱  I’m currently working with Python and JavaScript  
-💞️  I’m looking to collaborate on Machine Learnig and Social Network Analysis Projects  
+💞️  I’m looking to collaborate on Machine Learning and Social Network Analysis Projects  
 📫  Reach me at twitter.com/waqaribnm  
 
 <!---
