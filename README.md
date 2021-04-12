@@ -4,7 +4,15 @@
 💞️  I’m looking to collaborate on Machine Learning and Social Network Analysis  
 📫  Reach me at twitter.com/waqaribnm  
 
-<!---
-waqaribnm/waqaribnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="http://twitter.com/waqaribnm">
+    <img src="https://img.shields.io/twitter/follow/waqaribnm?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=waqaribnm&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=waqaribnm&theme=tokyonight" />
+</p>
